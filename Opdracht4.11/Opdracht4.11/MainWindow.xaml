@@ -1,0 +1,16 @@
+﻿<Window x:Class="Opdracht4._11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht4._11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <TextBox Name="txbInput" HorizontalAlignment="Center" Margin="0,257,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="btnSubmit" Content="Button" HorizontalAlignment="Center" Margin="0,317,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblAnswer" Content="" HorizontalAlignment="Center" Margin="0,147,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

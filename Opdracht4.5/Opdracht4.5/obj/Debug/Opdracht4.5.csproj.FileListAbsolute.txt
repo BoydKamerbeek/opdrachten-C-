@@ -1,0 +1,16 @@
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.csproj.AssemblyReference.cache
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\MainWindow.g.cs
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\App.g.cs
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5_MarkupCompile.cache
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5_MarkupCompile.lref
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\bin\Debug\Opdracht4.5.exe.config
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\bin\Debug\Opdracht4.5.exe
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\bin\Debug\Opdracht4.5.pdb
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\MainWindow.baml
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.g.resources
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4._5.Properties.Resources.resources
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.csproj.GenerateResource.cache
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.exe
+C:\xampp\htdocs\webroot\Level-7\C#\Opdrachten-inleveren\opdracht-2\Opdracht4.5\Opdracht4.5\obj\Debug\Opdracht4.5.pdb

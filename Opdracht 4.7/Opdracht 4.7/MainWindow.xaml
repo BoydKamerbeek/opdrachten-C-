@@ -1,0 +1,14 @@
+﻿<Window x:Class="Opdracht_4._7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht_4._7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="" Name="lblAnswer" HorizontalAlignment="Center" Margin="0,191,0,0" VerticalAlignment="Top" Width="253"/>
+        <Button Content="Calculate" Name="btnCalculate" HorizontalAlignment="Center" Margin="0,280,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.483,0.374"/>
+
+    </Grid>
+</Window>

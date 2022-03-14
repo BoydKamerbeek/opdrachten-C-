@@ -1,0 +1,21 @@
+﻿<Window x:Class="Opdracht4._9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht4._9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Buy drink" Name="btnBuyDrink" HorizontalAlignment="Center" Margin="0,375,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Name="txbChooseDrink" Margin="280,333,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+        <Label Content="Label" Name="lbl1" HorizontalAlignment="Center" Margin="0,54,0,0" VerticalAlignment="Top" Width="395"/>
+        <Label Content="Label" Name="lbl50" HorizontalAlignment="Center" Margin="0,102,0,0" VerticalAlignment="Top" Width="395"/>
+        <Label Content="Label" Name="lbl20" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Width="395"/>
+        <Label Content="Label" Name="lbl10" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" Width="395"/>
+        <Label Content="Label" Name="lbl5" HorizontalAlignment="Center" Margin="0,280,0,0" VerticalAlignment="Top" Width="396"/>
+        <TextBox HorizontalAlignment="Left" x:Name="txbChooseDrink_Copy" Margin="400,333,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
